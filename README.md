@@ -1,2 +1,24 @@
-# Passionate
-Passionate is supposed to let people share their passion, talk about it, and see other people's passion. Passionate should be open to everyone. I can't wait to release it. I hope u like it. BYE!!!
+# passionate
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
